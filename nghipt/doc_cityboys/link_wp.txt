@@ -1,2 +1,3 @@
 http://thachpham.com/wordpress/wordpress-development/phan-trang-bang-ajax.html
 http://tritueviet.vn/huong-dan-viet-plugin-cho-wordpress/
+http://stackoverflow.com/questions/21009516/get-categories-from-wordpress-woocommerce
