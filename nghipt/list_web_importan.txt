@@ -109,3 +109,5 @@ http://api.jqueryui.com/transfer-effect/
 http://goweb.vn/kien-thuc-web-vi/thiet-ke-web/code-thuong-dung-trong-magento-465.html
 
 http://symfony.com/legacy/doc/jobeet/1_2/vi_VN/01?orm=Doctrine
+
+http://blog.belvg.com/category/magento-news/developer-certification
